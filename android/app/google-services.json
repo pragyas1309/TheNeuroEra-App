@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "412058117680",
+    "project_id": "neuroeraa",
+    "storage_bucket": "neuroeraa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412058117680:android:546721aef9c615f025eff5",
+        "android_client_info": {
+          "package_name": "com.pragya.neuroeraa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412058117680-fs5ehl219ls4gsl0g3qcquiisedl7mih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8Wafs-p71ZKD5pr-fJPlc4FdEpiYK_xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412058117680-fs5ehl219ls4gsl0g3qcquiisedl7mih.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "412058117680-b1jg5voml15shlpj6q6l4t5jb05clsv7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.neuroeraa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
